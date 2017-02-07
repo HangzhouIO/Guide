@@ -2,6 +2,19 @@
 
 Guide to living in, working in, and visiting **Hangzhou**.
 
+## Getting around
+
+* West Lake (Xi Hu) - The West Lake is undoubtedly the most renowned landmark, noted for the scenic beauty that blends naturally with many famous historical and cultural sites.
+* Lingyin Temple - Temple of Soul's Retreat
+* Qiantang River - Qinghefang Ancient Street
+* Hefang Street 
+* Grand Canal 
+* Six Harmonies Pagoda (Liuhe Pagoda)
+* Temple of General Yue Fei 
+* Xixi Wetland National Park 
+* Thousand Islets Lake (Qiandao Lake)
+* Wuzhen Water Town 
+
 ## Coffee shops
 
 These places have good coffee, good WiFi, and are easily accessible from public
