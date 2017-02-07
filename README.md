@@ -1,6 +1,6 @@
 # Hangzhou Guide
 
-Guide to living in, working in, and visiting `Hangzhou`
+Guide to living in, working in, and visiting **Hangzhou**.
 
 ## Coffee shops
 
@@ -37,3 +37,7 @@ Some folks to follow:
 ## Event spaces
 
 ## Coworking spaces
+
+# Contributing
+
+[CONTRIBUTING.md](CONTRIBUTING.md)
