@@ -1,6 +1,8 @@
-# Hangzhou Guide
+# Hangzhou City Guide
 
-Guide to living in, working in, and visiting **Hangzhou**.
+Guide to ___living in___, ___working in___, and ___visiting___ `Hangzhou`.
+
+Visit [hangzhou.io](http://hangzhou.io).
 
 ## Getting around
 
