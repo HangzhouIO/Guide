@@ -17,6 +17,12 @@ Visit [hangzhou.io](http://hangzhou.io).
 * __Thousand Islets Lake (Qiandao Lake)__
 * __Wuzhen__ - Water Town
 
+## Transport
+
+### Train
+
+### Subway
+
 ## Coffee shops
 
 These places have good coffee, good WiFi, and are easily accessible from public
