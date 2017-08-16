@@ -6,7 +6,7 @@ Visit [hangzhou.io](http://hangzhou.io).
 
 ## Getting around
 
-|  |  |
+| Places To Go | Details |
 | :---: | :--- |
 | __West Lake (Xi Hu)__ | The West Lake is undoubtedly the most renowned landmark, noted for the scenic beauty that blends naturally with many famous historical and cultural sites. |
 | __Lingyin Temple__ | Temple of Soul's Retreat |
